@@ -1,19 +1,48 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Vitor
-===================================================================================================================================
+# 👋 Olá! Eu sou o Jorge Vitor
 
-Dev. Backend | Python | Freelancer
-----------------------------------
+### 💻 Desenvolvedor Backend | Python | Freelancer
 
-Sou apaixonado por tecnologia, programação e por criar soluções que realmente funcionam. Minha jornada começou com a curiosidade em entender como os sistemas funcionam por trás das telas — e hoje, trabalho com desenvolvimento back-end usando Python como principal linguagem. Utilizo frameworks como Flask e Django para criar APIs, sistemas web e automações. Além disso, também tenho experiência com bancos de dados, versionamento de código e outras ferramentas que ajudam a construir projetos sólidos e eficientes. Atualmente, atuo como freelancer na área, sempre buscando aprender mais e entregar soluções práticas e bem construídas para meus clientes.
+Sou apaixonado por tecnologia e por transformar ideias em soluções funcionais. Minha jornada na programação começou com a curiosidade em entender o que acontece "por trás das telas" — e hoje, trabalho como desenvolvedor back-end com foco em Python.
 
-* 🌍  I'm based in Aracaju - SE
-* 🖥️  See my portfolio at [https://portifolio-xi-smoky-15.vercel.app/](http://https://portifolio-xi-smoky-15.vercel.app/)
-* ✉️  You can contact me at [jv6001757@gmail.com](mailto:jv6001757@gmail.com)
+Atuo na criação de APIs, automações e sistemas web utilizando frameworks como **Flask** e **Django**. Tenho experiência com bancos de dados relacionais (PostgreSQL, MySQL), controle de versão com **Git**, conteinerização com **Docker** e outros recursos que ajudam a entregar projetos robustos e eficientes.
 
-### Skills
+Atualmente trabalho como **freelancer**, sempre buscando aprimorar meus conhecimentos e entregar soluções práticas e bem construídas para meus clientes.
 
+---
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-</p>
+## 🌍 Localização
 
+📍 Aracaju - SE, Brasil
+
+---
+
+## 📫 Contato
+
+- ✉️ Email: [jv6001757@gmail.com](mailto:jv6001757@gmail.com)  
+- 🌐 Portfólio: [Acesse aqui](https://portifolio-xi-smoky-15.vercel.app/)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+**Linguagens:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frameworks & Ferramentas:**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+**Bancos de Dados:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Outros:**  
+Raspberry Pi, Automação, APIs REST
+
+---
+
+## 🚀 Sempre aprendendo
+
+Estou constantemente estudando novas tecnologias, boas práticas de desenvolvimento e me atualizando para entregar cada vez mais qualidade nos meus projetos.
+
+---
+
+🔗 Obrigado por visitar meu perfil!
